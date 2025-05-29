@@ -1,5 +1,5 @@
 {
-  "questIDHigh:4": -9120408422061684108,
+  "questIDHigh:4": -8246702928406097985,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 7870519618586560871,
@@ -7,7 +7,7 @@
       "type:1": 1
     }
   },
-  "questIDLow:4": -5840918750229977258,
+  "questIDLow:4": -5910974644180467067,
   "properties:10": {
     "betterquesting:10": {
       "snd_complete:8": "random.levelup",
@@ -18,7 +18,7 @@
       "icon:10": {
         "id:8": "gregtech:gt.metaitem.01",
         "Count:3": 1,
-        "Damage:2": 32756,
+        "Damage:2": 32759,
         "OreDict:8": ""
       },
       "snd_update:8": "random.levelup",
@@ -26,11 +26,11 @@
       "globalShare:1": 0,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "INFRASTRUCTURE VOLTAGE",
+      "name:8": "Ultimate Voltage",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "The Twist Multi\u0027s for IV"
+      "desc:8": "[quest]The Twist Multis for UV Tier[/quest]"
     }
   },
   "tasks:9": {

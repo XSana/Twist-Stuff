@@ -1,16 +1,12 @@
 {
-  "questIDHigh:4": 4801550029219973916,
+  "questIDHigh:4": 5949642952490633795,
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 1416
-    },
-    "1:10": {
-      "questIDHigh:4": 6675743143231639196,
-      "questIDLow:4": -5475211781941083416
+      "questIDHigh:4": 6512275081747908959,
+      "questIDLow:4": -8268997704805708396
     }
   },
-  "questIDLow:4": -7663943273664584753,
+  "questIDLow:4": -7133116503295669136,
   "properties:10": {
     "betterquesting:10": {
       "snd_complete:8": "random.levelup",
@@ -19,9 +15,9 @@
       "isMain:1": 0,
       "simultaneous:1": 0,
       "icon:10": {
-        "id:8": "gregtech:gt.blockmachines",
+        "id:8": "TwistSpaceTechnology:MetaItem01",
         "Count:3": 1,
-        "Damage:2": 19064,
+        "Damage:2": 46,
         "OreDict:8": ""
       },
       "snd_update:8": "random.levelup",
@@ -29,11 +25,11 @@
       "globalShare:1": 0,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "Industrial Alchemy Tower",
+      "name:8": "METEOR MINER GOES BRRRRR",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Industrial Alchemy Tower[/quest]\n\n§6Machine Type: §eThaumatorium§r\n\nThe Twist version of the Thaumatorium"
+      "desc:8": "[quest]Tier 2 Laser Meteor Miner[/quest]\n\n§4Tier II: §fAlways has §6Fortune III§f. Mines §c1§f §orow§r every cycle. "
     }
   },
   "tasks:9": {
@@ -42,13 +38,13 @@
       "autoConsume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
-      "index:3": 1,
+      "index:3": 0,
       "consume:1": 0,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "gregtech:gt.blockmachines",
+          "id:8": "TwistSpaceTechnology:MetaItem01",
           "Count:3": 1,
-          "Damage:2": 19064,
+          "Damage:2": 46,
           "OreDict:8": ""
         }
       },

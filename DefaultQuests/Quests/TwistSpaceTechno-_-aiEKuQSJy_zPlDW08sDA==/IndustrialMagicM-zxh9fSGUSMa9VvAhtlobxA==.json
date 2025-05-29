@@ -6,8 +6,8 @@
       "questIDLow:4": 1412
     },
     "1:10": {
-      "questIDHigh:4": 4801550029219973916,
-      "questIDLow:4": -7663943273664584753
+      "questIDHigh:4": 6675743143231639196,
+      "questIDLow:4": -5475211781941083416
     }
   },
   "questIDLow:4": -4803387924960109628,
@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Industrial Magic Matrix[/quest]]\n\n§6Machine Type: §eMagic Matrix§r\n\nTwist\u0027s version of the Infusion Matrix from Thaumcraft. \n\n[warn]Use the Infusion Supplier to supply Essence[/warn]\n\n[note]The Industrial Magic Matrix is unable to perform active infusions[/note]\n\nParallelism depends on the level of the structure block.\n\nHas a 4/2 OC. You can turn on lossless overclocking after reaching the maximum acceeration rate. \n\n[note]Use Charged Nodes to get acceleration rewards[/note]\n\nIf the number of nodes is \u003c 6, processing time will be §4recipe time * number of missing nodes * 1.75\n\n§9There is more information on the ToolTip. Please refer to that for more information. \n\n§4[warn]This multi requires a lot of materials. Be sure to keep track of everything you need.[/warn]\n\n"
+      "desc:8": "[quest]Industrial Magic Matrix[/quest]\n\n§6Machine Type: §eMagic Matrix§r\n\nTwist\u0027s version of the Infusion Matrix from Thaumcraft. \n\n[warn]Use the Infusion Supplier to supply Essence[/warn]\n\n[note]The Industrial Magic Matrix is unable to perform active infusions[/note]\n\nParallelism depends on the level of the structure block.\n\nHas a 4/2 OC. You can turn on lossless overclocking after reaching the maximum acceeration rate. \n\n[note]Use Charged Nodes to get acceleration rewards[/note]\n\nIf the number of nodes is \u003c 6, processing time will be §4recipe time * number of missing nodes * 1.75\n\n§9There is more information on the ToolTip. Please refer to that for more information. \n\n§4[warn]This multi requires a lot of materials. Be sure to keep track of everything you need.[/warn]\n\n"
     }
   },
   "tasks:9": {

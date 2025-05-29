@@ -1,12 +1,7 @@
 {
-  "questIDHigh:4": 4530149805845531759,
-  "preRequisites:9": {
-    "0:10": {
-      "questIDHigh:4": 1672480493406668935,
-      "questIDLow:4": -8120518640189663563
-    }
-  },
-  "questIDLow:4": -7831082026452090336,
+  "questIDHigh:4": 833099320842928322,
+  "preRequisites:9": {},
+  "questIDLow:4": -4811869396683001474,
   "properties:10": {
     "betterquesting:10": {
       "snd_complete:8": "random.levelup",
