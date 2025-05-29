@@ -2,12 +2,12 @@
   "questIDHigh:4": 9218437062525665576,
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 1413
+      "questIDHigh:4": -9120408422061684108,
+      "questIDLow:4": -5840918750229977258
     },
     "1:10": {
-      "questIDHigh:4": 7870519618586560871,
-      "questIDLow:4": -7359930969178969742
+      "questIDHigh:4": 0,
+      "questIDLow:4": 1413
     }
   },
   "questIDLow:4": -7595502314275437586,
@@ -29,11 +29,11 @@
       "globalShare:1": 0,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "AMOC",
+      "name:8": "Advanced Mega Oil Cracker",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Advanced Mega Oil Cracker[/quest]\n\n§6§lFREEDOM"
+      "desc:8": "[quest]Advanced Mega Oil Cracker[/quest]\n\n§6Machine Type: §eOil Cracker\n\n§6§l§1§4§5§lFREEDOM\n\n§r[note]Perfect Overclock enabled with Eternal Coils[/note]"
     }
   },
   "tasks:9": {

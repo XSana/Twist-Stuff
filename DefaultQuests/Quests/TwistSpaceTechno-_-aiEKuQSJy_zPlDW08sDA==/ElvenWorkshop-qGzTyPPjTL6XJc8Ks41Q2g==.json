@@ -6,8 +6,8 @@
       "questIDLow:4": -5984592636755449553
     },
     "1:10": {
-      "questIDHigh:4": -5697852418339090468,
-      "questIDLow:4": -8566488791605831454
+      "questIDHigh:4": 6675743143231639196,
+      "questIDLow:4": -5475211781941083416
     }
   },
   "questIDLow:4": -7555405154975133478,
@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Elven Workshop[/quest]\n\nThe Elven Workshop is the Twist answer to Botania. \n\nThe multiblock has two modes. \n\n§9Have fun with the Liquid Mana!"
+      "desc:8": "[quest]Elven Workshop[/quest]\n\n§6Machine Type: §eMana Infuser §r| §eRune Engraver§r\n\nThe Elven Workshop is the Twist answer to Botania. \n\nThe multiblock has two modes. \n\n§9Have fun with the Liquid Mana!"
     }
   },
   "tasks:9": {

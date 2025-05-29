@@ -1,5 +1,5 @@
 {
-  "questIDHigh:4": 8837907084090295410,
+  "questIDHigh:4": -5632205582836087977,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": -9120408422061684108,
@@ -7,10 +7,10 @@
     },
     "1:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 213
+      "questIDLow:4": 1414
     }
   },
-  "questIDLow:4": -9214610857875787385,
+  "questIDLow:4": -4742851142543685982,
   "properties:10": {
     "betterquesting:10": {
       "snd_complete:8": "random.levelup",
@@ -21,7 +21,7 @@
       "icon:10": {
         "id:8": "gregtech:gt.blockmachines",
         "Count:3": 1,
-        "Damage:2": 19066,
+        "Damage:2": 19053,
         "OreDict:8": ""
       },
       "snd_update:8": "random.levelup",
@@ -29,11 +29,11 @@
       "globalShare:1": 0,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "THE RETURN OF THE KING",
+      "name:8": "Lightning Spire",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]The Return of the King[/quest]\n\n§6Machine Type: §eProcessing Array§o§r\n\nTST Processing Array is a copy of the PA which has been deprecated from base GTNH. \n\n§4ENJOY!"
+      "desc:8": "[quest]Lightning Spire[/quest]\n\n§6Machine Type:§e Multi Lightning Rod\n\n§r§9§b§bMaximum storage capacity of 512 Lightning Rods (I)\nEach Lightning Rod produces §o§n§r§n§c28 MEU §r§bper lightning strike and stores 280 MEU. \n\nConsumes §c128L Cryotheum §band §c72L * (the number of lightning rods) Molten Iron §bevery lightning. \n\nQuantitative input is required. Too much or too little input will lead to failure. \n\n§r§r[note]Ignores §cthunderstorm §rweather for power generation[/note]\n\n[warn]Use a screwdriver to switch between modes.[/warn]\n[warn]Please clear internal cache before outputting lightning rods.[/warn]\n[warn]Output all lightning rods before dismantling the machine.[/warn]\n\n[note]Use a §eWire Cutter §rto enable/disable the animation. [/note]"
     }
   },
   "tasks:9": {
@@ -42,31 +42,18 @@
       "autoConsume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
-      "index:3": 0,
+      "index:3": 1,
       "consume:1": 0,
       "requiredItems:9": {
         "0:10": {
           "id:8": "gregtech:gt.blockmachines",
           "Count:3": 1,
-          "Damage:2": 19066,
+          "Damage:2": 19053,
           "OreDict:8": ""
         }
       },
       "taskID:8": "bq_standard:retrieval"
     }
   },
-  "rewards:9": {
-    "0:10": {
-      "rewardID:8": "bq_standard:item",
-      "index:3": 0,
-      "rewards:9": {
-        "0:10": {
-          "id:8": "gregtech:gt.metaitem.01",
-          "Count:3": 64,
-          "Damage:2": 11083,
-          "OreDict:8": ""
-        }
-      }
-    }
-  }
+  "rewards:9": {}
 }

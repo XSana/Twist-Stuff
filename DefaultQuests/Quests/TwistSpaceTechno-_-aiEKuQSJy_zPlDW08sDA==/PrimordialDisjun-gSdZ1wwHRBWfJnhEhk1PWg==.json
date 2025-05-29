@@ -33,82 +33,11 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Primordial Disjunctus[/quest]"
+      "desc:8": "[quest]Primordial Disjunctus[/quest]\n\n§6Machine Type: §eEssentia Extractor§r\n\n[note]I don\u0027t know anything about magic, so good luck[/note]"
     }
   },
   "tasks:9": {
     "0:10": {
-      "partialMatch:1": 1,
-      "autoConsume:1": 0,
-      "groupDetect:1": 0,
-      "ignoreNBT:1": 1,
-      "index:3": 0,
-      "consume:1": 0,
-      "requiredItems:9": {
-        "0:10": {
-          "id:8": "gregtech:gt.blockcasings2",
-          "Count:3": 148,
-          "Damage:2": 0,
-          "OreDict:8": ""
-        },
-        "1:10": {
-          "id:8": "gregtech:gt.blockcasings8",
-          "Count:3": 149,
-          "Damage:2": 0,
-          "OreDict:8": ""
-        },
-        "2:10": {
-          "id:8": "Thaumcraft:blockCosmeticOpaque",
-          "Count:3": 352,
-          "Damage:2": 2,
-          "OreDict:8": ""
-        },
-        "3:10": {
-          "id:8": "gregtech:gt.blockcasings2",
-          "Count:3": 11,
-          "Damage:2": 15,
-          "OreDict:8": ""
-        },
-        "4:10": {
-          "id:8": "gregtech:gt.blockframes",
-          "Count:3": 62,
-          "Damage:2": 305,
-          "OreDict:8": ""
-        },
-        "5:10": {
-          "id:8": "GoodGenerator:magicCasing",
-          "Count:3": 85,
-          "Damage:2": 0,
-          "OreDict:8": ""
-        },
-        "6:10": {
-          "id:8": "GoodGenerator:essentiaCell",
-          "Count:3": 4,
-          "Damage:2": 0,
-          "OreDict:8": ""
-        },
-        "7:10": {
-          "id:8": "gregtech:gt.blockmachines",
-          "Count:3": 12,
-          "Damage:2": 91,
-          "OreDict:8": ""
-        },
-        "8:10": {
-          "id:8": "GoodGenerator:essentiaHatch",
-          "Count:3": 2,
-          "Damage:2": 0,
-          "OreDict:8": ""
-        },
-        "9:10": {
-          "id:8": "GoodGenerator:essentiaFilterCasing",
-          "Count:3": 1,
-          "Damage:2": 0,
-          "OreDict:8": ""
-        }
-      },
-      "taskID:8": "bq_standard:optional_retrieval"
-    },
-    "1:10": {
       "partialMatch:1": 1,
       "autoConsume:1": 0,
       "groupDetect:1": 0,
