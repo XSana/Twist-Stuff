@@ -1,0 +1,59 @@
+{
+  "questIDHigh:4": 3261364530481940963,
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 2614
+    },
+    "1:10": {
+      "questIDHigh:4": -8246702928406097985,
+      "questIDLow:4": -5910974644180467067
+    }
+  },
+  "questIDLow:4": -6008000789999252131,
+  "properties:10": {
+    "betterquesting:10": {
+      "snd_complete:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL",
+      "isMain:1": 0,
+      "simultaneous:1": 0,
+      "icon:10": {
+        "id:8": "gregtech:gt.blockmachines",
+        "Count:3": 1,
+        "Damage:2": 19036,
+        "OreDict:8": ""
+      },
+      "snd_update:8": "random.levelup",
+      "repeatTime:3": -1,
+      "globalShare:1": 0,
+      "questLogic:8": "AND",
+      "repeat_relative:1": 1,
+      "name:8": "Macerating Everything",
+      "lockedProgress:1": 0,
+      "autoClaim:1": 0,
+      "isSilent:1": 0,
+      "desc:8": "[quest]\"Mini\" Household Cell Fragmentizer[/quest]\n\n§6Machine Type: §eMacerator§e§f\n\n§f§fParallel is §c2 §f^ (§c2 §f^ (§aTier§f + §c2§f) - §c1§f)\n\n§aTier 1: §6Damascus Steel Blocks\n§aTier 2: §6Neutronium Blocks\n§aTier 3: §6Universium Blocks\n\n§fMax Voltage Tier is §alimited§f by the Glass Tier.\n\nGain §c8x§f speed multiplier when glass tier §9is greater than§f recipe tier. \n\n"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "partialMatch:1": 1,
+      "autoConsume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "consume:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "id:8": "gregtech:gt.blockmachines",
+          "Count:3": 1,
+          "Damage:2": 19036,
+          "OreDict:8": ""
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  },
+  "rewards:9": {}
+}
