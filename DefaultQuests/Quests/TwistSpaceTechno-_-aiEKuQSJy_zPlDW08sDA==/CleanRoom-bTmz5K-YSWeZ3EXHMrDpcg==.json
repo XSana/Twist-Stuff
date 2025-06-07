@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "§9§9§f[quest]The Twist Cleanroom[/quest]\n\nDoes not need maintainence or power. Both hatches need to be placed, but they do not require any setup. \n\nCan be any size up to 63x64x63.\n\n[warn]Power Pass must be enabled for Twist CleanRoom to work!![/warn]\n\n§4"
+      "desc:8": "[quest]The Twist Cleanroom[/quest]\n\n§6Machine Type: §aCleanroom§r\n\nDoes not need maintainence or power. Both hatches need to be placed, but they do not require any setup. \n\nCan be any size up to §963x64x63§r.\n\n[warn]Power Pass must be enabled for Twist CleanRoom to work![/warn]"
     }
   },
   "tasks:9": {

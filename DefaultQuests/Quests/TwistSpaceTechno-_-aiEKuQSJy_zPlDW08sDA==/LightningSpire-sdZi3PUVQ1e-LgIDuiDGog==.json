@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Lightning Spire[/quest]\n\n§6Machine Type:§e Multi Lightning Rod\n\n§r§9§b§bMaximum storage capacity of 512 Lightning Rods (I)\nEach Lightning Rod produces §o§n§r§n§c28 MEU §r§bper lightning strike and stores 280 MEU. \n\nConsumes §c128L Cryotheum §band §c72L * (the number of lightning rods) Molten Iron §bevery lightning. \n\nQuantitative input is required. Too much or too little input will lead to failure. \n\n§r§r[note]Ignores §cthunderstorm §rweather for power generation[/note]\n\n[warn]Use a screwdriver to switch between modes.[/warn]\n[warn]Please clear internal cache before outputting lightning rods.[/warn]\n[warn]Output all lightning rods before dismantling the machine.[/warn]\n\n[note]Use a §eWire Cutter §rto enable/disable the animation. [/note]"
+      "desc:8": "[quest]Lightning Spire[/quest]\n\n§6Machine Type: §aMulti Lightning Rod§r\n\nMaximum storage capacity of §c512§r Lightning Rods (I)\nEach Lightning Rod produces §c28 MEU§r per lightning strike and stores §c280 MEU§r. \n\nConsumes §c128L§r Cryotheum band §c72L§r * (the number of lightning rods) Molten Iron every lightning. \n\nQuantitative input is required. Too much or too little input will lead to failure. \n\n§r[note]Ignores §cthunderstorm§r weather for power generation[/note]\n\n[warn]Use a §aScrewdriver§r to switch between modes.[/warn]\n[warn]Please clear internal cache before outputting lightning rods.[/warn]\n[warn]Output all lightning rods before dismantling the machine.[/warn]\n\n[note]Use a §aWire Cutter§r to enable/disable the animation. [/note]"
     }
   },
   "tasks:9": {

@@ -29,7 +29,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Bee Engineer[/quest]\n\n§6Machine Type: §eBee Engineer\n\n§o§rTransforms drones into princess. \n\nCosts §c128kL §fHoney with a §c40% §ffailing chance. \n\nIf provided with §c32kL§f of UUMatter, success rate increases to §c80%§f\n\n[warn]If the recipe fails, no ingredients will be returned[/warn]\n§r"
+      "desc:8": "[quest]Bee Engineer[/quest]\n\n§6Machine Type: §aBee Engineer\n\n§rTransforms drones into princess. \n\nCosts §c128kL§f§r Honey with a §c40%§f§r failing chance. \n\nIf provided with §c32kL§f§r of UUMatter, success rate increases to §c80%§f§r\n\n[warn]If the recipe fails, no ingredients will be returned[/warn]"
     }
   },
   "tasks:9": {

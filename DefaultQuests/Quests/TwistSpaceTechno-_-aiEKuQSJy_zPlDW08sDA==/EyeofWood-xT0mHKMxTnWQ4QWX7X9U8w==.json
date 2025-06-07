@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Eye of Wood[/quest]\n\n§6Machine Type: §eHappiness Master§r\n\nThe Eye of Wood is a poor man\u0027s Eye of Harmony for the Early Game. \n\n[warn]CAN ONLY BE PLACED IN THE OVERWORLD, UNLESS CHANGED IN CONFIG[/warn]\n\nThe Eye of Wood produces small quantities of the Overworld Ores. Estimated 131 Outputs for the EoW. \n\nRequires §c256§r Buckets of Lava and Water every minute to produce items. If it fails, it produces steam. \n\nYou can easily automate this in EV with §9AE §ror §9OC.§r \n\nLava can easily be obtainable with Everburn Urn. "
+      "desc:8": "[quest]Eye of Wood[/quest]\n\n§6Machine Type: §aHappiness Master§r\n\nThe Eye of Wood is a poor man\u0027s Eye of Harmony for the Early Game. \n\n[warn]CAN ONLY BE PLACED IN THE OVERWORLD, UNLESS CHANGED IN CONFIG[/warn]\n\nThe Eye of Wood produces small quantities of the Overworld Ores. Estimated 131 Outputs for the EoW. \n\nRequires §c256§r Buckets of Lava and Water every minute to produce items. If it fails, it produces steam. \n\nYou can easily automate this in EV with §9AE §ror §9OC.§r \n\nLava can easily be obtainable with Everburn Urn. "
     }
   },
   "tasks:9": {

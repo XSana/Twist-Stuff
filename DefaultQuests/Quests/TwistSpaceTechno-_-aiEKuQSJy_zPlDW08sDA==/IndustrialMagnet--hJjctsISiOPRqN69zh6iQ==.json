@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Industrial Magnetar Separator[/quest]\n\n§6Machine Type: §eElectromagnetic Separator\n\n§r§c300%§f faster than using singleblock of the same voltage\n\nOnly uses §c80%§f of Eu/t normally required\n\nProcesses §c4§f items per voltage tier. \n\n"
+      "desc:8": "[quest]Industrial Magnetar Separator[/quest]\n\n§6Machine Type: §aElectromagnetic Separator§r\n\n§c300%§f§r faster than using singleblock of the same voltage\n\nOnly uses §c80%§f§r of Eu/t normally required\n\nProcesses §c4§f§r items per voltage tier. "
     }
   },
   "tasks:9": {

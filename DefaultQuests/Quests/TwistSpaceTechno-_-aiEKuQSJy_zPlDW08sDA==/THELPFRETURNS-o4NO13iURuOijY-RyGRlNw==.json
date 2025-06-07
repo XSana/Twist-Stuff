@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Manufacturing Center[/quest]\n\n§6Machine Type: §eNine in One\n\n§m§rRecipe Voltage is limited by §c§aMultiUse Core\n\n§r§c20% §rfaster than singleblocks.\n\nEach Core Tier over §eIV §fgains §b50% §k§f§rSpeed Bonus.\nEach Core Tier over §eIV §fgains §b15% §k§f§rEu/t Reduction\n\nMax Parallel is §c2x§r voltage tier. "
+      "desc:8": "[quest]Manufacturing Center[/quest]\n\n§6Machine Type: §aNine in One§r\n\nRecipe Voltage is limited by §9MultiUse Core§r\n\n§c20%§r faster than singleblocks.\n\nEach Core Tier over §aIV§f§r gains §b50%§k§f§r Speed Bonus.\nEach Core Tier over §aIV§f§r gains §b15%§k§f§r EU/t Reduction.\n\nMax Parallel is §c2x§r voltage tier. "
     }
   },
   "tasks:9": {

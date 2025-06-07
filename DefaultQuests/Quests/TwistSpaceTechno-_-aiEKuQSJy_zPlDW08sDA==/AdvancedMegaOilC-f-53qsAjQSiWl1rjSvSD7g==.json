@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Advanced Mega Oil Cracker[/quest]\n\n§6Machine Type: §eOil Cracker\n\n§6§l§1§4§5§lFREEDOM\n\n§r[note]Perfect Overclock enabled with Eternal Coils[/note]"
+      "desc:8": "[quest]Advanced Mega Oil Cracker[/quest]\n\n§6Machine Type: §aOil Cracker\n\n§5§lFREEDOM§r\n\n[note]Perfect Overclock enabled with Eternal Coils[/note]"
     }
   },
   "tasks:9": {

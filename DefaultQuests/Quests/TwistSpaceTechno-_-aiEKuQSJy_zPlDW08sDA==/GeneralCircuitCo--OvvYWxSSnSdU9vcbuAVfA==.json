@@ -29,7 +29,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]General Circuit Converter[/quest]\n\n§6Machine Type: §eCircuit Converter§r\n\nTransforms Circuits to their \"Any\" Variant.\n\nDoes not require power. "
+      "desc:8": "[quest]General Circuit Converter[/quest]\n\n§6Machine Type: §aCircuit Converter§r\n\nTransforms Circuits to their \"Any\" Variant.\n\nDoes not require power. "
     }
   },
   "tasks:9": {

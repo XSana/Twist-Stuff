@@ -29,7 +29,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Parallelism Tower #1[/quest]\n\n[note]For Each Tower: [/note]\n\n§cParallelism Casing: 134\nGlass: 530\nFrame: 64\nCoil: 42\nStainless Steel Casing: 86\nAssembly Line Casing: 64"
+      "desc:8": "[quest]Parallelism Tower #1[/quest]\n\n[note]For Each Tower: [/note]\n\nParallelism Casing: §c134§r\nGlass: §c530§r\nFrame: §c64§r\nCoil: §c42§r\nStainless Steel Casing: §c86§r\nAssembly Line Casing: §c64§r"
     }
   },
   "tasks:9": {
