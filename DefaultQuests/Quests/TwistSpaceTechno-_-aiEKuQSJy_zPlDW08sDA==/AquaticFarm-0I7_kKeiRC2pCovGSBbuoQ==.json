@@ -29,7 +29,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Aseptic Greenhouse Casing[/quest]\n\nTo enable the §c2nd§f Tier of the Eco-Sphere, you need to create Aquatic Casings. \n\nMaking the §6Fount of Ecology§f reduces the cost of liquids by §c10 §fand improves production by §c5x§f\n\n[note]GOOD LUCK![/note]"
+      "desc:8": "[quest]Aseptic Greenhouse Casing[/quest]\n\nTo enable the §c2nd§r Tier of the Eco-Sphere, you need to create Aquatic Casings. \n\nMaking the §6Fount of Ecology§r reduces the cost of liquids by §c10§r and improves production by §c5x§r\n\n[note]GOOD LUCK![/note]"
     }
   },
   "tasks:9": {

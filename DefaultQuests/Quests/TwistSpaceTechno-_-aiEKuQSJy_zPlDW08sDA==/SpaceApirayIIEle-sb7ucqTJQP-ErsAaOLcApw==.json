@@ -29,7 +29,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Space Apiray Module MK-II[/quest]\n\n§7§6Machine Type: §eBee Processing§r\n\nNeeds §nQueen§r Bee in Controller\n\nConsumes §c1A LuV §rper Parallel | Consumes §c25L§o§r Liquid DNA per Parallel per Run\n\nMax Parallels: §c4096§r\n\n[note]Needs at least Space Elevator Motor MK-II to work. [/note]"
+      "desc:8": "[quest]Space Apiray Module MK-II[/quest]\n\n§7§6Machine Type: §aBee Processing§r\n\nNeeds §nQueen§r Bee in Controller\n\nConsumes §c1A LuV §rper Parallel | Consumes §c25L§o§r Liquid DNA per Parallel per Run\n\nMax Parallels: §c4096§r\n\n[note]Needs at least Space Elevator Motor MK-II to work. [/note]"
     }
   },
   "tasks:9": {

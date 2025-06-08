@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Large Industrial Coking Factory [/quest]\n\n§6Machine Type: §eCoke Oven\n\n§rProcesses all inputs at once. \n\nHigher coil tier makes the machine run faster.\n\n------------------------------------------\n\nThe Large Industrial Coking Factory is an upgrade for the Industrial Coke Oven. \n\nYou’ll need:\n\n§c299§f Robust Tungstensteel Machine Casings\n§c275§f Tiered Coils \n§c32§f Heat Proof Coke Oven Casings\n§c243§f Steel Frame Boxes\n§c593§f Pyrolyse Oven Casings\n§c579§f Structural Coke Oven Casings\n§c275§f Black Steel Frame Boxes\n§c10§f Tungstensteel Pipe Casings\n§c10§f Tungstensteel Firebox Casings\nI/O ports and Energy Hatches.\n\n§dPortion written by Annie Penndragon"
+      "desc:8": "[quest]Large Industrial Coking Factory [/quest]\n\n§6Machine Type: §aCoke Oven§r\n\nProcesses all inputs at once. \n\nHigher coil tier makes the machine run faster.\n\n------------------------------------------\n\nThe Large Industrial Coking Factory is an upgrade for the Industrial Coke Oven. \n\nYou’ll need:\n\n§c299§r Robust Tungstensteel Machine Casings\n§c275§r Tiered Coils \n§c32§r Heat Proof Coke Oven Casings\n§c243§r Steel Frame Boxes\n§c593§r Pyrolyse Oven Casings\n§c579§r Structural Coke Oven Casings\n§c275§r Black Steel Frame Boxes\n§c10§r Tungstensteel Pipe Casings\n§c10§r Tungstensteel Firebox Casings\nI/O ports and Energy Hatches.\n\n§dPortion written by Annie Penndragon"
     }
   },
   "tasks:9": {

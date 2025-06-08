@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Hephaestus\u0027 Atelier[/quest]\n\n§6Machine Type: §eFurnace §f| §f§eAlloy Smelter§r\n\n[note]Use a §aScrewdriver§r to change modes[/note]§r\n\nThis multi will parallel across recipes!\n\n§6--- T1 Coil: Molecular Coil ---§r\n\n§c2.1G §fParallel\n\n§9In Furnace Mode: \n\n§r§c25.6 §fSeconds\n\nEvery item consumes §c7 §fEU/tick\n\n§6--- T2 Coil: Ultimate Containment Field Generator ---§r\n\nDirectly consume power from Wireless EU Network\n\n§cInfinite § §rParallel\n\n§9In Furnace Mode:§r\n\n§c12.8 §rSeconds\n\nEvery item consumes §c2048 §rEU/tick\n\n§6--- T3 Coil: Teleportation Casing ---§r\n\nProcessing Time: §c1§r second\n\n\n\n"
+      "desc:8": "[quest]Hephaestus\u0027 Atelier[/quest]\n\n§6Machine Type: §aFurnace§r | §aAlloy Smelter§r\n\n[note]Use a §aScrewdriver§r to change modes[/note]§r\n\nThis multi will parallel across recipes!\n\n§6--- T1 Coil: Molecular Coil ---§r\n\n§c2.1G§r Parallel\n\n§9In Furnace Mode:§r \n\n§c25.6§r Seconds\n\nEvery item consumes §c7§r EU/tick\n\n§6--- T2 Coil: Ultimate Containment Field Generator ---§r\n\nDirectly consume power from Wireless EU Network\n\n§cInfinite§r Parallel\n\n§9In Furnace Mode:§r\n\n§c12.8§r Seconds\n\nEvery item consumes §c2048§r EU/tick\n\n§6--- T3 Coil: Teleportation Casing ---§r\n\nProcessing Time: §c1§r second"
     }
   },
   "tasks:9": {

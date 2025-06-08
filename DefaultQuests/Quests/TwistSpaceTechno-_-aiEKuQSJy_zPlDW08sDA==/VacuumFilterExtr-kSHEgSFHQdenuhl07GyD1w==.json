@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Vacuum Filter Extractor[/quest]\n\n§6Machine Type: §d§eDistillation Tower §f| §eDistillery§r\n\n[note]Use a §aScrewdriver§r to change modes[/note]\n\nRecipe Voltage is only §c50%§r\n\nIncreasing the energy input will result in more speed boosts\n\nDistillery Mode enables §9Perfect Overclock§r"
+      "desc:8": "[quest]Vacuum Filter Extractor[/quest]\n\n§6Machine Type: §aDistillation Tower§r | §aDistillery§r\n\n[note]Use a §aScrewdriver§r to change modes[/note]\n\nRecipe Voltage is only §c50%§r\n\nIncreasing the energy input will result in more speed boosts!\n\nDistillery Mode enables §9Perfect Overclock§r"
     }
   },
   "tasks:9": {

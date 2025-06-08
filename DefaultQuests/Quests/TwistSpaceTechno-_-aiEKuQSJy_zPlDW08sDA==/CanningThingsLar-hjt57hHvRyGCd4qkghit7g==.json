@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Large Canner[/quest]\n\n§6Machine Type: §eCanning Machine §e§f| §eFluid Canner\n\n§cCAN.\n\n§rInfinite Parallels\n\n[note]Use a screwdriver to switch modes[/note]"
+      "desc:8": "[quest]Large Canner[/quest]\n\n§6Machine Type: §aCanning Machine§r | §aFluid Canner§r\n\n§cCAN§r.\n\nInfinite Parallels\n\n[note]Use a §aScrewdriver§r to switch modes[/note]"
     }
   },
   "tasks:9": {

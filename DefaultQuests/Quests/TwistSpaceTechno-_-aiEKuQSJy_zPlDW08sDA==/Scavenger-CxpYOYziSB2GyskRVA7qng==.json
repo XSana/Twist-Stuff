@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]The Scavenger[/quest]\n\n§6Machine Type: §eSifter\n\n§rHas parallel equivalent to §9Perfect Overclock§m§r\n\nOnly uses §c60%§f of the EU/t normally required.\n\nAdditional §c20%§f reduction in time per Voltage Tier. \n\n---------------------------------------\n\nThe Scavenger is §913x9x13§f\n\nIt is used as an upgrade to the Large Sifter. \n\nYou’ll need:\n\n§c425§f Advanced Iridium Plated Machine Casing\n§c707§f Osmiridium Frame Box \n§c8§f§c9§f Borosilicate Glass Block \n§c46§f Mining Osmiridium Casing\nI/O ports and Energy Hatches\n\n§5§dPortion written by Annie Penndragon"
+      "desc:8": "[quest]The Scavenger[/quest]\n\n§6Machine Type: §aSifter§r\n\nHas parallel equivalent to §9Perfect Overclock§r\n\nOnly uses §c60%§r of the EU/t normally required.\n\nAdditional §c20%§r reduction in time per Voltage Tier. \n\n---------------------------------------\n\nThe Scavenger is §913x9x13§r Multiblock. It is used as an upgrade to the Large Sifter. \n\nYou’ll need:\n\n§c425§r Advanced Iridium Plated Machine Casing\n§c707§r Osmiridium Frame Box \n§c8§r Borosilicate Glass Block \n§c46§r Mining Osmiridium Casing\nI/O ports and Energy Hatches\n\n§dPortion written by Annie Penndragon "
     }
   },
   "tasks:9": {

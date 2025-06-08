@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Holy Separator[/quest]\n\n§6Machine Type: §eCutter §f| §eSlicer §f| §eLathe§r\n\n§r[note]Use a §aScrewdriver§r to change modes[/note]\n\n§c8x §fParallel per segment\n\n§c16§f segments enables §9Perfect Overclock§r\n\n§c10% §fTime reduction per Voltage Tier\n\n"
+      "desc:8": "[quest]Holy Separator[/quest]\n\n§6Machine Type: §aCutter§r | §aSlicer§r | §aLathe§r\n\n[note]Use a §aScrewdriver§r to change modes[/note]\n\n§c8x§r Parallel per segment\n\n§c16§r segments enables §9Perfect Overclock§r\n\n§c10%§r Time reduction per Voltage Tier"
     }
   },
   "tasks:9": {

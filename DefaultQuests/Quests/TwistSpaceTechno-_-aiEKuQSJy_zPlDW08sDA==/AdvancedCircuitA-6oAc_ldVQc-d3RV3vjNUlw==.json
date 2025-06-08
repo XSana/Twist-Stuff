@@ -37,7 +37,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "Advanced Circuit Assembly Line\n\n§6Machine Type: §eCircuit Assembly Line\n\n§rCircuit Assembly Line with §c64x§f OC\n\nAllows multi-amp energy hatch up to §964A§f\n\nAllows §aCrafting Input Buffer\n\n§f[note]Install §o§4Imprint Circuit Hatch§r for more recipe support[/note]"
+      "desc:8": "Advanced Circuit Assembly Line\n\n§6Machine Type: §aCircuit Assembly Line§r\n\nCircuit Assembly Line with §c64x§r OC\n\nAllows multi-amp energy hatch up to §964A§r\n\nAllows §aCrafting Input Buffer§r\n\n[note]Install §o§4Imprint Circuit Hatch§r for more recipe support[/note]"
     }
   },
   "tasks:9": {

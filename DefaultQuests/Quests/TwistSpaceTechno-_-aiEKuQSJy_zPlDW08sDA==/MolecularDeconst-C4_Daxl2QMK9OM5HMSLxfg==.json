@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Molecule Deconstructor[/quest]\n\n§6Machine Type: §eElectrolyzer §f| §eCentrifuge\n\n§c24x §fParallel per segment | §c16 §fsegments enables §9Perfect Overclock\n\n§fAdditional §c10% §ftime reduction per voltage tier. \n\nThe Glass Tier §alimits§f the Voltage Tier. \n\n[note]Use a screwdriver to change modes[/note]\n\n"
+      "desc:8": "[quest]Molecule Deconstructor[/quest]\n\n§6Machine Type: §aElectrolyzer§r | §aCentrifuge§r\n\n§c24x§r Parallel per segment | §c16§r segments enables §9Perfect Overclock§r\n\nAdditional §c10%§r time reduction per voltage tier. \n\nThe Glass Tier §9limits§r the Voltage Tier. \n\n[note]Use a §aScrewdriver§r to change modes[/note]"
     }
   },
   "tasks:9": {

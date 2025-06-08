@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Bloody Hell[/quest]\n\n§6Machine Type: §eAltar of Blood §f| §eAlchemic Chemistry Set §f| §eRitual of Binding§r\n\nYou would have swore this was British.\n\n[warn]This multiblock has 7 tiers. The optional task is only for Tier 1.[/warn] \n\n§9Good Luck with the rest."
+      "desc:8": "[quest]Bloody Hell[/quest]\n\n§6Machine Type: §aAltar of Blood§r | §aAlchemic Chemistry Set§r | §aRitual of Binding§r\n\nYou would have swore this was British.\n\n[warn]This multiblock has 7 tiers. The optional task is only for Tier 1.[/warn] \n\n§9Good Luck with the rest."
     }
   },
   "tasks:9": {

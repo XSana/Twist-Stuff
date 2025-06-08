@@ -29,7 +29,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Physical Form Switcher[/quest]\n\n§6Machine Type: §eFluid Solidifier §f| §eFluid Extractor\n\n§fHas Parallel equivalent to §9Perfect Overclock§f\n\n§fGlass Tier §4limits§f the recipe voltage tier. \n\nAdditional §c10%§f time reduction per voltage tier. \n\n---------------------------------------\n\nThe Physical Form Switcher is a §915x20x15§f Multiblock, used as a direct upgrade to the Fluid Shaper and Large Fluid Extractor. \n\nYou’ll need:\n\n§c365§f Radiant Naquadah Alloy Casings\n§c64§f Containment Field Machine Casings\n§c40§f Field Restriction Casings\n§c88§f Tiered Borosilicate Glass\n§c136§f Naquadah Alloy Frame Boxes\n§c12§f Tungstensteel Pipe Casing\nI/O hatches and Energy Hatches\n\n§5§dPortion written by Annie Penndragon"
+      "desc:8": "[quest]Physical Form Switcher[/quest]\n\n§6Machine Type: §aFluid Solidifier§r | §aFluid Extractor§r\n\nHas Parallel equivalent to §9Perfect Overclock§r\n\nGlass Tier §9limits§r the recipe voltage tier. \n\nAdditional §c10%§r time reduction per voltage tier. \n\n---------------------------------------\n\nThe Physical Form Switcher is a §915x20x15§r Multiblock, used as a direct upgrade to the Fluid Shaper and Large Fluid Extractor. \n\nYou’ll need:\n\n§c365§r Radiant Naquadah Alloy Casings\n§c64§r Containment Field Machine Casings\n§c40§r Field Restriction Casings\n§c88§r Tiered Borosilicate Glass\n§c136§r Naquadah Alloy Frame Boxes\n§c12§r Tungstensteel Pipe Casing\nI/O hatches and Energy Hatches\n\n§dPortion written by Annie Penndragon"
     }
   },
   "tasks:9": {

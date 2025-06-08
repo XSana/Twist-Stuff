@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]General Ore Processing Factory TST[/quest]\n\n§6Machine Type: §eOre Processor§r\n\nProcess time is always §c6.4§r seconds\n\nWill attempt to consume as many inputs as possible. Inputs that cannot be processed will be sent directly to Output Bus. \n\nJoins the Wireless EU Network when you don\u0027t install an Energy Hatch.\n\nConsumes §c3200L §rLubricant every §d§c12.8§r seconds."
+      "desc:8": "[quest]General Ore Processing Factory TST[/quest]\n\n§6Machine Type: §aOre Processor§r\n\nProcess time is always §c6.4§r seconds\n\nWill attempt to consume as many inputs as possible. Inputs that cannot be processed will be sent directly to Output Bus. \n\nJoins the Wireless EU Network when you don\u0027t install an Energy Hatch.\n\nConsumes §c3200L §rLubricant every §d§c12.8§r seconds."
     }
   },
   "tasks:9": {

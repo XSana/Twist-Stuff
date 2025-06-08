@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Silksong[/quest]\n\n§6Machine Type: §e§eWiremill\n\n§rParallel \u003d §9coil §f* §9segments§f * §c32§r\n\n§rEach level of coil increases speed by §b§c100%§f\n\nAdditional §c15%§f time reduction per coil tier"
+      "desc:8": "[quest]Silksong[/quest]\n\n§6Machine Type: §aWiremill§r\n\nParallel \u003d §9coil§r * §9segments§r * §c32§r\n\nEach level of coil increases speed by §b§c100%§r\n\nAdditional §c15%§r time reduction per coil tier"
     }
   },
   "tasks:9": {

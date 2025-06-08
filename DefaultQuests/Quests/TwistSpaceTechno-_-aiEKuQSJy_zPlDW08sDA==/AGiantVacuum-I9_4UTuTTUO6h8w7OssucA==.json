@@ -37,7 +37,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Giant Vacuum Drying Furnace[/quest]\n\n§6Machine Type: §eVacuum Furnace§f | §eDehydrator\n\n§rThis multi consists of §7three §fstructures: Vacuum Pump, Main Structure and Drying Tower\n\nParallel \u003d §9coil §f* §9segments §f* §c32§r\n\nEvery additional voltage step reduces time to §c80%§f of the original processing speed. \n\n[note]Use a screwdriver to switch modes[/note]"
+      "desc:8": "[quest]Giant Vacuum Drying Furnace[/quest]\n\n§6Machine Type: §aVacuum Furnace§r | §aDehydrator§r\n\nThis multi consists of §93§r structures: Vacuum Pump, Main Structure and Drying Tower\n\nParallel \u003d §9coil§r*§9segments§r*§c32§r\n\nEvery additional voltage step reduces time to §c80%§r of the original processing speed.\n\n[note]Use a §aScrewdriver§r to switch modes[/note]"
     }
   },
   "tasks:9": {

@@ -37,7 +37,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]PULSAR - Incompact Cyclotron[/quest]\n\n§6Machine Type: §eParticle Accelerator§r§r\n\n§c100% §fSpeed Bonus\n§c256x§f Parallel\n\nRequires an additional §c60% §rpower to operate\n\n"
+      "desc:8": "[quest]PULSAR - Incompact Cyclotron[/quest]\n\n§6Machine Type: §aParticle Accelerator§r\n\n§c100%§r Speed Bonus\n§c256x§r Parallel\n\nRequires an additional §c60%§r power to operate"
     }
   },
   "tasks:9": {

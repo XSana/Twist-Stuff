@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Magnetic Domain Constructor[/quest]\n\n§6Machine Type: §eElectromagnetic Separator §f| §eElectromagnetic Polarizer\n\n§f[note]Use a §e§aScrewdriver§r to change modes[/note]\n\n§c64x §k§fParallel per Ring\n\n§c25% §fTime Reduction per Voltage Tier\n\n§r[warn]DO NOT USE A STACK OF HOLOGRAM PROJECTORS WHEN VISUALIZING THE MULTI[/warn]"
+      "desc:8": "[quest]Magnetic Domain Constructor[/quest]\n\n§6Machine Type: §aElectromagnetic Separator§r | §aElectromagnetic Polarizer§r\n\n[note]Use a §aScrewdriver§r to change modes[/note]\n\n§c64x§r Parallel per Ring\n\n§c25%§r Time Reduction per Voltage Tier\n\n[warn]DO NOT USE A STACK OF HOLOGRAM PROJECTORS WHEN VISUALIZING THE MULTI[/warn]"
     }
   },
   "tasks:9": {

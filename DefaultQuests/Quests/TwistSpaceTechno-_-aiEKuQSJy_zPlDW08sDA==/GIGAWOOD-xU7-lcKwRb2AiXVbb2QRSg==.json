@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Eco-Sphere Growth Simulator[/quest]\n\n§6Machine Type: §f§eTree Farm §f| §eAquatic Farm §e§f| §eGreen House §f|§e Mob Cloner\n\n§f[note]As of now, only §aTree Farm§f and §aAquatic Farm§f are actually available in game[/note]\n\nNeed to pour a bucket of §3§2§adistilled water§f §fat the top to complete the structure\n\nRecipe Time is §cFixed§f\n\nThe output increases §anonlinearly§f with an increase in voltage\n\n[note]Use a screwdriver to change modes[/note]\n\n"
+      "desc:8": "[quest]Eco-Sphere Growth Simulator[/quest]\n\n§6Machine Type: §aTree Farm§r | §aAquatic Farm§r | §aGreen House§r | §aMob Cloner§r\n\n[note]As of now, only §9Tree Farm§r and §9Aquatic Farm§r are actually available in game[/note]\n\nNeed to pour a bucket of §9distilled water§r at the top to complete the structure\n\nRecipe Time is §cFixed§r\n\nThe output increases §9nonlinearly§r with an increase in voltage\n\n[note]Use a screwdriver to change modes[/note]"
     }
   },
   "tasks:9": {

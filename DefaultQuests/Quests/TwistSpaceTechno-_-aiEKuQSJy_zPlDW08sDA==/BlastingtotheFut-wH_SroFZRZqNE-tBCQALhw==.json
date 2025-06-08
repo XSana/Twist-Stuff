@@ -37,7 +37,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Swelegfyr Blast Furnace[/quest]\n\n§6Machine Type: §f§eBlast Furnace§r\n\nTemperature gradually increases in §9Passive Mode§o§r\n\nAdditional furnace heat will reset upon recipe change\n\nPower consumption decreases by §b§c10%§f per §b1800K§r above recipe temperature threshold\n\nEnery Hatch Tier is §arestricted§r by Glass Tier\n\n[note]You do not need to use a §ePyrotheum Heating Vent§r on this multi[/note]"
+      "desc:8": "[quest]Swelegfyr Blast Furnace[/quest]\n\n§6Machine Type: §aBlast Furnace§r\n\nTemperature gradually increases in §9Passive Mode§r\n\nAdditional furnace heat will reset upon recipe change\n\nPower consumption decreases by §c10%§r per §b1800K§r above recipe temperature threshold\n\nEnery Hatch Tier is §arestricted§r by Glass Tier\n\n[note]You do not need to use a §aPyrotheum Heating Vent§r on this multi[/note]"
     }
   },
   "tasks:9": {

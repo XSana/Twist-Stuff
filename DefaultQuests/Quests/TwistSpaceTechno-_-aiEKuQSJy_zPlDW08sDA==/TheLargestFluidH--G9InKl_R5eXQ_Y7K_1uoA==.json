@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Core Device of Human Power Generation Facility[/quest]\n\n§6Machine Type: §eFluid Heater\n\n§fUpgrade §acoils§f for faster speeds\n\n[note]The Glass Tier §alimits§f the Voltage Tier[/note]\n\n"
+      "desc:8": "[quest]Core Device of Human Power Generation Facility[/quest]\n\n§6Machine Type: §aFluid Heater§r\n\nUpgrade §ccoils§r for faster speeds\n\n[note]The Glass Tier §9limits§r the Voltage Tier[/note]"
     }
   },
   "tasks:9": {
