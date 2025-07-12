@@ -7,6 +7,8 @@ The DefaultQuests is the entire QuestBook from GTNH including a chapter on Twist
 
 To add it to your pack: 
 
+First, click the blue `<> CODE` button and download ZIP
+
 1. Go to configs
 2. Navigate to the betterquesting folder 
 3. DELETE the "DefaultQuests" folder.
