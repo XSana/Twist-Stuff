@@ -12,13 +12,5 @@ To add it to your pack:
 3. DELETE the "DefaultQuests" folder.
 4. Download the "DefaultQuests" Folder that exists on this repository
 5. Copy it to the betterquesting folder, this will add the Twist Quest Page
+6. Go in game and type the command `/bq_admin default load` (YOU DO NOT NEED OP FOR THIS), this will load the questbook with all the Twist Quests added. Because quests are saved world side, you will not lose any progress with your current quests, but please contact Aditya if you run into any troubles
 
-THE NEXT STEPS ARE OPTIONAL (BUT MAY BREAK YOUR GAME, I MIGHT REMOVE THIS LATER, DON'T KNOW YET):
-
-6. After downloading the quests, click on the resources folder
-7. Download the "Images" Folder in my repository
-8. Copy the "Images" Folder to inside your "resources" folder inside the betterquesting config folder
-
-This will add a picture of me to the Twist Questbook page just as a meme. May or may not stay. 
-
-After doing all this, go into game, and type "/bq_admin default load" to load the questbook with Twist in it. 
