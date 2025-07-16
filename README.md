@@ -1,16 +1,25 @@
+TST 任务书
+
+使用 DeepSeek 机翻版本，目前没有人工校对，你可以 fork 这个仓库创建自己的翻译或者，提交你觉得有问题的翻译到这里
+
+使用方法
+
+将 zh_CH.lang 内容最追加到./config/txloader/load/betterquesting/lang/zh_CN.lang 文件末尾，注意是追加不要覆盖，然后重启游戏即可，如果翻译未变化，可以输入 /bq_admin default load 重新加载任务书
+
 # Twist-Stuff
+
 My Twist Space Repo - QBs &amp; Info
 
-Instructions for how to download the Twist Questbook using the Easy Way: 
+Instructions for how to download the Twist Questbook using the Easy Way:
 
-The DefaultQuests is the entire QuestBook from GTNH, including a chapter on Twist that I made.  
+The DefaultQuests is the entire QuestBook from GTNH, including a chapter on Twist that I made.
 
-To add it to your pack: 
+To add it to your pack:
 
 First, click the blue `<> CODE` button and download the ZIP
 
 1. Go to configs
-2. Navigate to the betterquesting folder 
+2. Navigate to the betterquesting folder
 3. DELETE the "DefaultQuests" folder.
 4. Download the "DefaultQuests" Folder that exists on this repository
 5. Copy it to the betterquesting folder; this will add the Twist Quest Page

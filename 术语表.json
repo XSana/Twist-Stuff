@@ -1,0 +1,1778 @@
+[
+  {
+    "term": "   Controller:",
+    "translation": "   控制器：  "
+  },
+  {
+    "term": "   Energy Hatch:",
+    "translation": "   能源仓：  "
+  },
+  {
+    "term": "   Input Bus:",
+    "translation": "   输入总线："
+  },
+  {
+    "term": "   Input Hatch:",
+    "translation": "   输入仓：  "
+  },
+  {
+    "term": "   Maintenance Hatch:",
+    "translation": "   维护仓：  "
+  },
+  {
+    "term": "   Output Bus:",
+    "translation": "   输出总线："
+  },
+  {
+    "term": "   Output Hatch:",
+    "translation": "   输出仓：  "
+  },
+  {
+    "term": "   §fController: ",
+    "translation": "   §f控制器：  "
+  },
+  {
+    "term": "%%",
+    "translation": "％"
+  },
+  {
+    "term": "%material Arrow",
+    "translation": "%material箭"
+  },
+  {
+    "term": "%material Arrow Head",
+    "translation": "%material箭头"
+  },
+  {
+    "term": "%material Axe Head",
+    "translation": "%material斧头"
+  },
+  {
+    "term": "%material Bolt",
+    "translation": "%material螺栓"
+  },
+  {
+    "term": "%material Buzzsaw Blade",
+    "translation": "%material圆锯锯刃"
+  },
+  {
+    "term": "%material Casing",
+    "translation": "%material外壳"
+  },
+  {
+    "term": "%material Cell",
+    "translation": "%material单元"
+  },
+  {
+    "term": "%material Chainsaw Tip",
+    "translation": "%material链锯刃"
+  },
+  {
+    "term": "%material Drill Tip",
+    "translation": "%material钻头"
+  },
+  {
+    "term": "%material Dust",
+    "translation": "%material粉"
+  },
+  {
+    "term": "%material File Head",
+    "translation": "%material锉刀刃"
+  },
+  {
+    "term": "%material Foil",
+    "translation": "%material箔"
+  },
+  {
+    "term": "%material Frame Box",
+    "translation": "%material框架"
+  },
+  {
+    "term": "%material Gear",
+    "translation": "%material齿轮"
+  },
+  {
+    "term": "%material Hammer Head",
+    "translation": "%material锤头"
+  },
+  {
+    "term": "%material Hoe Head",
+    "translation": "%material锄头"
+  },
+  {
+    "term": "%material Ingot",
+    "translation": "%material锭"
+  },
+  {
+    "term": "%material Nanites",
+    "translation": "%material纳米蜂群"
+  },
+  {
+    "term": "%material Nugget",
+    "translation": "%material粒"
+  },
+  {
+    "term": "%material Ore",
+    "translation": "%material矿石"
+  },
+  {
+    "term": "%material Pickaxe Head",
+    "translation": "%material镐头"
+  },
+  {
+    "term": "%material Plasma Cell",
+    "translation": "%material等离子体单元"
+  },
+  {
+    "term": "%material Plate",
+    "translation": "%material板"
+  },
+  {
+    "term": "%material Plow Head",
+    "translation": "%material犁头"
+  },
+  {
+    "term": "%material Ring",
+    "translation": "%material环"
+  },
+  {
+    "term": "%material Rod",
+    "translation": "%material杆"
+  },
+  {
+    "term": "%material Rotor",
+    "translation": "%material转子"
+  },
+  {
+    "term": "%material Round",
+    "translation": "%material滚珠"
+  },
+  {
+    "term": "%material Saw Blade",
+    "translation": "%material锯刃"
+  },
+  {
+    "term": "%material Screw",
+    "translation": "%material螺丝"
+  },
+  {
+    "term": "%material Sense Blade",
+    "translation": "%material镰刀刃"
+  },
+  {
+    "term": "%material Shovel Head",
+    "translation": "%material铲头"
+  },
+  {
+    "term": "%material Spring",
+    "translation": "%material弹簧"
+  },
+  {
+    "term": "%material Sword Blade",
+    "translation": "%material剑刃"
+  },
+  {
+    "term": "%material Turbine Blade",
+    "translation": "%material涡轮扇叶"
+  },
+  {
+    "term": "%material Universal Spade Head",
+    "translation": "%material万用铲头"
+  },
+  {
+    "term": "%material Wrench Tip",
+    "translation": "%material扳手顶"
+  },
+  {
+    "term": "-----------------------------------------",
+    "translation": "-----------------------------------------"
+  },
+  {
+    "term": "12x %material Cable",
+    "translation": "12x%material线缆"
+  },
+  {
+    "term": "12x %material Wire",
+    "translation": "12x%material导线"
+  },
+  {
+    "term": "16x %material Cable",
+    "translation": "16x%material线缆"
+  },
+  {
+    "term": "16x %material Wire",
+    "translation": "16x%material导线"
+  },
+  {
+    "term": "1x %material Cable",
+    "translation": "1x%material线缆"
+  },
+  {
+    "term": "1x %material Wire",
+    "translation": "1x%material导线"
+  },
+  {
+    "term": "2x %material Cable",
+    "translation": "2x%material线缆"
+  },
+  {
+    "term": "2x %material Wire",
+    "translation": "2x%material导线"
+  },
+  {
+    "term": "4x %material Cable",
+    "translation": "4x%material线缆"
+  },
+  {
+    "term": "4x %material Wire",
+    "translation": "4x%material导线"
+  },
+  {
+    "term": "8x %material Wire",
+    "translation": "8x%material导线"
+  },
+  {
+    "term": "Absolute Baryonic Perfection Purification Unit",
+    "translation": "绝对重子完美净化单元"
+  },
+  {
+    "term": "Accepts up to 2 Amps",
+    "translation": "最大输入2安"
+  },
+  {
+    "term": "Active Transformer",
+    "translation": "有源变压器"
+  },
+  {
+    "term": "Added by: §2Alkalus §7- §c[GT++]",
+    "translation": "添加者：§2Alkalus §7- §c[GT++]"
+  },
+  {
+    "term": "Added by: §aGregtech§7",
+    "translation": "由 §aGregtech§7 添加"
+  },
+  {
+    "term": "Advanced Assembly Line",
+    "translation": "进阶装配线"
+  },
+  {
+    "term": "Advanced Blocking Card",
+    "translation": "高级阻挡卡"
+  },
+  {
+    "term": "Advanced Data Access Hatch",
+    "translation": "进阶数据访问仓"
+  },
+  {
+    "term": "Advanced Large Gas Turbine",
+    "translation": "进阶大型燃气涡轮"
+  },
+  {
+    "term": "Advanced SoC",
+    "translation": "ASoC"
+  },
+  {
+    "term": "AE2 Fluid Crafting",
+    "translation": "AE2流体合成套件"
+  },
+  {
+    "term": "All rights reserved",
+    "translation": "版权所有"
+  },
+  {
+    "term": "Alloy Blast Smelter",
+    "translation": "合金冶炼炉"
+  },
+  {
+    "term": "ambrosia",
+    "translation": "仙馔蜜酒"
+  },
+  {
+    "term": "Amum",
+    "translation": "阿蒙"
+  },
+  {
+    "term": "Amun-Ra",
+    "translation": "阿蒙·拉"
+  },
+  {
+    "term": "Angel Block",
+    "translation": "天使方块"
+  },
+  {
+    "term": "Anubis",
+    "translation": "阿努比斯"
+  },
+  {
+    "term": "Any casing",
+    "translation": "任意机械方块"
+  },
+  {
+    "term": "Apiarist Suit",
+    "translation": "养蜂员套装"
+  },
+  {
+    "term": "Applied Energistics",
+    "translation": "应用能源"
+  },
+  {
+    "term": "Assembler Machine Casing",
+    "translation": "装配线外壳"
+  },
+  {
+    "term": "Assembly Line Casing",
+    "translation": "装配线方块"
+  },
+  {
+    "term": "Assembly line Reception Connector",
+    "translation": "装配线接收接口"
+  },
+  {
+    "term": "Assemby Line",
+    "translation": "装配线"
+  },
+  {
+    "term": "Astral Array Fabricator",
+    "translation": "星阵"
+  },
+  {
+    "term": "Auto-Taping Maintenance Hatch",
+    "translation": "Debug维护仓"
+  },
+  {
+    "term": "Automatable Data Access Hatch",
+    "translation": "自动数据访问仓"
+  },
+  {
+    "term": "Baal",
+    "translation": "巴力"
+  },
+  {
+    "term": "Bartworks",
+    "translation": "巴特的作品"
+  },
+  {
+    "term": "Beryllium",
+    "translation": "铍"
+  },
+  {
+    "term": "Better Builder's Wand",
+    "translation": "更好的建筑之杖"
+  },
+  {
+    "term": "Better Loading Screen",
+    "translation": "更好的加载界面"
+  },
+  {
+    "term": "Better Questing",
+    "translation": "更好的任务"
+  },
+  {
+    "term": "Biomes O' Plenty",
+    "translation": "超多生物群系"
+  },
+  {
+    "term": "biometric card",
+    "translation": "身份卡"
+  },
+  {
+    "term": "Black Body Naquadria Supersolid",
+    "translation": "超固态超能硅岩黑体"
+  },
+  {
+    "term": "Black Dwarf Matter",
+    "translation": "黑矮星物质"
+  },
+  {
+    "term": "Black Plutonium",
+    "translation": "黑钚"
+  },
+  {
+    "term": "Block of",
+    "translation": "块"
+  },
+  {
+    "term": "Block of %material",
+    "translation": "%material块"
+  },
+  {
+    "term": "Boundless Gravitationally Severed Structure Casing",
+    "translation": "无界引力隔绝机械方块"
+  },
+  {
+    "term": "Brass",
+    "translation": "黄铜"
+  },
+  {
+    "term": "Bricked Blast Furnace",
+    "translation": "砖高炉"
+  },
+  {
+    "term": "Californium",
+    "translation": "锎"
+  },
+  {
+    "term": "Celestial Matter Guidance Casing",
+    "translation": "天体物质引导机械方块"
+  },
+  {
+    "term": "Central Graviton Flow Modulator",
+    "translation": "中央引力子流动调节器"
+  },
+  {
+    "term": "Central Processing Unit",
+    "translation": "中央处理器"
+  },
+  {
+    "term": "Cerium-doped Lutetium Aluminium Garnet",
+    "translation": "掺铈镥铝石榴石"
+  },
+  {
+    "term": "Cetane Boosted Diesel",
+    "translation": "高十六烷值柴油"
+  },
+  {
+    "term": "Charm",
+    "translation": "护符"
+  },
+  {
+    "term": "Circuit Assembler",
+    "translation": "电路组装机"
+  },
+  {
+    "term": "Circuit Assembling Line",
+    "translation": "电路装配线"
+  },
+  {
+    "term": "Clarifier Purification Unit",
+    "translation": "澄清净化单元"
+  },
+  {
+    "term": "Community Edition",
+    "translation": "社区版"
+  },
+  {
+    "term": "Component Assembly Line",
+    "translation": "部件装配线"
+  },
+  {
+    "term": "Component Assembly Line Casing",
+    "translation": "部件装配线外壳"
+  },
+  {
+    "term": "cover",
+    "translation": "覆盖板"
+  },
+  {
+    "term": "Crafting Input Buffer",
+    "translation": "样板输入总成"
+  },
+  {
+    "term": "Crafting Input Bus",
+    "translation": "样板输入总线"
+  },
+  {
+    "term": "Crate of %material Dust",
+    "translation": "板条箱：%matarial粉"
+  },
+  {
+    "term": "Crate of %material Ingot",
+    "translation": "板条箱：%material锭"
+  },
+  {
+    "term": "Crate of %material Plate",
+    "translation": "板条箱：%material板"
+  },
+  {
+    "term": "Creon",
+    "translation": "创律合金"
+  },
+  {
+    "term": "Crystal Processing Unit",
+    "translation": "晶体处理器单元"
+  },
+  {
+    "term": "Crystal SoC",
+    "translation": "晶体SoC"
+  },
+  {
+    "term": "Data Access Hatch",
+    "translation": "数据访问仓"
+  },
+  {
+    "term": "Data Bank",
+    "translation": "数据库"
+  },
+  {
+    "term": "Data Bank Transmission Connector",
+    "translation": "数据库发送接口"
+  },
+  {
+    "term": "Data Connector",
+    "translation": "数据接口"
+  },
+  {
+    "term": "Dedicated Advanced Assembly Line",
+    "translation": "专用进阶装配线"
+  },
+  {
+    "term": "Deep Dark",
+    "translation": "漆黑世界"
+  },
+  {
+    "term": "Deep Earth Heating Pump",
+    "translation": "深地热泵"
+  },
+  {
+    "term": "Dense %material Plate",
+    "translation": "致密%material板"
+  },
+  {
+    "term": "Dimensional Duplicity",
+    "translation": "维度堆砌"
+  },
+  {
+    "term": "Dimensionally Transcendent Plasma Forge",
+    "translation": "超维度等离子锻炉"
+  },
+  {
+    "term": "Dimensionally Transcendent Stellar Catalyst",
+    "translation": "恒星超维度催化剂"
+  },
+  {
+    "term": "disenchanter",
+    "translation": "祛魔台"
+  },
+  {
+    "term": "Distillation Tower",
+    "translation": "蒸馏塔"
+  },
+  {
+    "term": "DO NOT OBSTRUCT THE OUTPUT!",
+    "translation": "请勿阻塞输出！"
+  },
+  {
+    "term": "Double %material Ingot",
+    "translation": "双重%material锭"
+  },
+  {
+    "term": "Double %material Plate",
+    "translation": "双重%material板"
+  },
+  {
+    "term": "Draconic Evolution Fusion Crafter",
+    "translation": "龙研聚合装置"
+  },
+  {
+    "term": "Dyson Swarm",
+    "translation": "戴森球"
+  },
+  {
+    "term": "Electric Blast Furnace",
+    "translation": "工业高炉"
+  },
+  {
+    "term": "Electric Implosion Compressor",
+    "translation": "电动聚爆压缩机"
+  },
+  {
+    "term": "Electrum",
+    "translation": "琥珀金"
+  },
+  {
+    "term": "Elemental Duplicator",
+    "translation": "大型元素复制机"
+  },
+  {
+    "term": "Elemental Input for Multiblocks",
+    "translation": "多方块机器的元物质输入"
+  },
+  {
+    "term": "Ender IO",
+    "translation": "末影接口"
+  },
+  {
+    "term": "Energy Hatch",
+    "translation": "能源仓"
+  },
+  {
+    "term": "Energy Injector for Multiblocks",
+    "translation": "为多方块机器提供能源"
+  },
+  {
+    "term": "engineered tesseract",
+    "translation": "充能超立方体"
+  },
+  {
+    "term": "Enriched Naquadah",
+    "translation": "富集硅岩"
+  },
+  {
+    "term": "Equal Distribution Card",
+    "translation": "均分卡"
+  },
+  {
+    "term": "Essentia",
+    "translation": "源质"
+  },
+  {
+    "term": "Essentia Cell Workbench",
+    "translation": "源质元件工作台"
+  },
+  {
+    "term": "Eternal Singularity",
+    "translation": "永恒奇点"
+  },
+  {
+    "term": "Eternity",
+    "translation": "永恒"
+  },
+  {
+    "term": "Everburn Urn",
+    "translation": "炼狱之壶"
+  },
+  {
+    "term": "Excited Dimensionally Transcendent Stellar Catalys",
+    "translation": "激发的恒星超维度催化剂"
+  },
+  {
+    "term": "Exo-Halkonite Steel",
+    "translation": "超然恒坚钢"
+  },
+  {
+    "term": "Extreme Combustion Engine",
+    "translation": "极限内燃引擎"
+  },
+  {
+    "term": "Extreme Entity Crusher",
+    "translation": "工业屠宰场"
+  },
+  {
+    "term": "Extreme Heat Exchanger",
+    "translation": "超级热交换机"
+  },
+  {
+    "term": "Extreme Industrial Greenhouse",
+    "translation": "极限工业温室"
+  },
+  {
+    "term": "Extreme Temperature Fluctuation Purification Unit",
+    "translation": "极端温度波动净化单元"
+  },
+  {
+    "term": "ExxonMobil Chemical Plant",
+    "translation": "埃克森美孚化工厂"
+  },
+  {
+    "term": "Eye of Harmony",
+    "translation": "鸿蒙之眼"
+  },
+  {
+    "term": "Filter Machine Casing",
+    "translation": "过滤器机械方块"
+  },
+  {
+    "term": "Fine %material Wire",
+    "translation": "细%material导线"
+  },
+  {
+    "term": "Flerovium",
+    "translation": ""
+  },
+  {
+    "term": "Flocculation Purification Unit",
+    "translation": "絮凝净化单元"
+  },
+  {
+    "term": "fluid",
+    "translation": "流体"
+  },
+  {
+    "term": "Fluid Alloy Cooker",
+    "translation": "合金冶炼炉"
+  },
+  {
+    "term": "fluid cell",
+    "translation": "流体存储元件"
+  },
+  {
+    "term": "Fluid Drilling Plant",
+    "translation": "油气流体钻机"
+  },
+  {
+    "term": "Fluid Extractor",
+    "translation": "流体提取机"
+  },
+  {
+    "term": "Fluid Input for Multiblocks",
+    "translation": "为多方块机器输入流体"
+  },
+  {
+    "term": "Fluid Nukes",
+    "translation": "流体核电"
+  },
+  {
+    "term": "Fluid Output for Multiblocks",
+    "translation": "为多方块机器输出流体"
+  },
+  {
+    "term": "Fluid Shaper",
+    "translation": "流体塑形机"
+  },
+  {
+    "term": "Fluid Solidifier",
+    "translation": "流体固化器"
+  },
+  {
+    "term": "fluid tank",
+    "translation": "流体储罐"
+  },
+  {
+    "term": "Fluxed Electrum",
+    "translation": "通流琥珀金"
+  },
+  {
+    "term": "Forge of the Gods",
+    "translation": "诸神之锻炉"
+  },
+  {
+    "term": "Frame Box",
+    "translation": "框架"
+  },
+  {
+    "term": "Framework Casing",
+    "translation": "框架方块"
+  },
+  {
+    "term": "Front bottom",
+    "translation": "正面底中"
+  },
+  {
+    "term": "Front center",
+    "translation": "正面中央"
+  },
+  {
+    "term": "Galacticraft",
+    "translation": "星系"
+  },
+  {
+    "term": "Galgadorian",
+    "translation": "混合晶"
+  },
+  {
+    "term": "Generating electric Energy from Multiblocks",
+    "translation": "接受多方块机器生产的能量"
+  },
+  {
+    "term": "Genetics",
+    "translation": "基因工程"
+  },
+  {
+    "term": "graviton shards",
+    "translation": "引力子碎片"
+  },
+  {
+    "term": "Hardcore mode",
+    "translation": "极限模式"
+  },
+  {
+    "term": "Hawking Radiation Realignment Focus",
+    "translation": "霍金辐射重组焦点"
+  },
+  {
+    "term": "HBM's Nuclear Tech",
+    "translation": "HBM的核科技"
+  },
+  {
+    "term": "Heavy %material Plate",
+    "translation": "重型%material板"
+  },
+  {
+    "term": "Helioflare Power Forge",
+    "translation": "太阳烈焰能量锻炉"
+  },
+  {
+    "term": "Helioflux Melting Core",
+    "translation": "太阳射流融化核心"
+  },
+  {
+    "term": "Heliofusion Exoticizer",
+    "translation": "太阳聚变异化器"
+  },
+  {
+    "term": "Heliothermal Plasma Fabricator",
+    "translation": "太阳热能等离子制造机"
+  },
+  {
+    "term": "Helium",
+    "translation": "氦"
+  },
+  {
+    "term": "High Energy Laser Purification Unit",
+    "translation": "高能激光净化单元"
+  },
+  {
+    "term": "High Power IC",
+    "translation": "高功率IC"
+  },
+  {
+    "term": "High Temperature Gas-cooled Reactor",
+    "translation": "高温气冷反应堆"
+  },
+  {
+    "term": "high-octane gasoline",
+    "translation": "高辛烷值汽油"
+  },
+  {
+    "term": "Hold §l[LSHIFT]§r§7 to display structure guideline",
+    "translation": "按住 §l[LSHIFT]§r§7 以显示结构指导"
+  },
+  {
+    "term": "hologram projector",
+    "translation": "全息投影"
+  },
+  {
+    "term": "Horus",
+    "translation": "荷鲁斯"
+  },
+  {
+    "term": "Hot %material Ingot",
+    "translation": "热%material锭"
+  },
+  {
+    "term": "Hot Isostatic Pressurization Unit",
+    "translation": "热等静压装置"
+  },
+  {
+    "term": "HSS-E",
+    "translation": "高速钢-E"
+  },
+  {
+    "term": "HSS-G",
+    "translation": "高速钢-G"
+  },
+  {
+    "term": "HSS-S",
+    "translation": "高速钢-S"
+  },
+  {
+    "term": "HTGR",
+    "translation": "高温气冷反应堆"
+  },
+  {
+    "term": "Hydrogen",
+    "translation": "氢"
+  },
+  {
+    "term": "Hyper-Intensity Laser Engraver",
+    "translation": "高强度激光蚀刻机"
+  },
+  {
+    "term": "Hypogen",
+    "translation": "海珀珍"
+  },
+  {
+    "term": "Iah",
+    "translation": "雅赫"
+  },
+  {
+    "term": "Industrial Apiary",
+    "translation": "工业蜂箱"
+  },
+  {
+    "term": "Industrial Apicultural Acclimatiser and Drone Dome",
+    "translation": "巨型工业蜂箱"
+  },
+  {
+    "term": "Industrial Autoclave",
+    "translation": "工业高压釜"
+  },
+  {
+    "term": "Industrial Coke Oven",
+    "translation": "工业焦炉"
+  },
+  {
+    "term": "Industrial Precision Lathe",
+    "translation": "工业精密车床"
+  },
+  {
+    "term": "Infernal Blast Furnace",
+    "translation": "炼狱高炉"
+  },
+  {
+    "term": "Infinite Spray Can",
+    "translation": "无限喷漆罐"
+  },
+  {
+    "term": "Infinity",
+    "translation": "无尽"
+  },
+  {
+    "term": "Infinity Catalyst",
+    "translation": "无尽催化剂"
+  },
+  {
+    "term": "Infusion Altar",
+    "translation": "注魔祭坛"
+  },
+  {
+    "term": "Integrated Logic Circuit",
+    "translation": "逻辑集成电路"
+  },
+  {
+    "term": "Integrated Ore Factory",
+    "translation": "集成矿石处理厂"
+  },
+  {
+    "term": "Item Input for Multiblocks",
+    "translation": "为多方块机器输入物品"
+  },
+  {
+    "term": "Just Enough Items",
+    "translation": "JEI物品管理器"
+  },
+  {
+    "term": "Just something you can put covers on.",
+    "translation": "只是一个能安装覆盖板的方块"
+  },
+  {
+    "term": "Kebechet",
+    "translation": "凯贝洁特"
+  },
+  {
+    "term": "Khonsu",
+    "translation": "孔苏"
+  },
+  {
+    "term": "Krypton",
+    "translation": "氪"
+  },
+  {
+    "term": "Lapotronic Energy Storage Unit",
+    "translation": "LESU"
+  },
+  {
+    "term": "Lapotronic Supercapacitor",
+    "translation": "兰波顿超级电容库"
+  },
+  {
+    "term": "Large Chemical Reactor",
+    "translation": "大型化学反应釜"
+  },
+  {
+    "term": "Large Combustion Engine",
+    "translation": "大型内燃引擎"
+  },
+  {
+    "term": "Large Essentia Generator",
+    "translation": "大型源质发电机"
+  },
+  {
+    "term": "Large Essentia Smeltery",
+    "translation": "大型源质冶炼厂"
+  },
+  {
+    "term": "Large Gas Turbine",
+    "translation": "大型燃气涡轮"
+  },
+  {
+    "term": "Large Plasma Turbine",
+    "translation": "大型等离子涡轮"
+  },
+  {
+    "term": "Large Processing Factory",
+    "translation": "大型加工厂"
+  },
+  {
+    "term": "Large Scale Auto-Assembler",
+    "translation": "大规模自动装配机"
+  },
+  {
+    "term": "Large Steam Turbine",
+    "translation": "大型蒸汽涡轮"
+  },
+  {
+    "term": "Laser Engraver",
+    "translation": "激光蚀刻机"
+  },
+  {
+    "term": "laser engraving",
+    "translation": "激光蚀刻"
+  },
+  {
+    "term": "Laser Hatch",
+    "translation": "激光仓"
+  },
+  {
+    "term": "Laser Vacuum Mirror",
+    "translation": "激光真空反射镜"
+  },
+  {
+    "term": "LFTR",
+    "translation": "液态氟钍反应堆"
+  },
+  {
+    "term": "LHE",
+    "translation": "大型热交换机"
+  },
+  {
+    "term": "Light %material Arrow",
+    "translation": "轻质%material箭"
+  },
+  {
+    "term": "Locking Card",
+    "translation": "锁定卡"
+  },
+  {
+    "term": "Long %material Rod",
+    "translation": "长%material杆"
+  },
+  {
+    "term": "Long Distance Fluid Pipeline",
+    "translation": "长距离流体管道"
+  },
+  {
+    "term": "Long Distance Item Pipeline",
+    "translation": "长距离物品管道"
+  },
+  {
+    "term": "Long Distance Pipeline",
+    "translation": "长距离管道"
+  },
+  {
+    "term": "Maahes",
+    "translation": "马赫斯"
+  },
+  {
+    "term": "Machine hull",
+    "translation": "机器外壳"
+  },
+  {
+    "term": "Machine Type: ",
+    "translation": "机器类型："
+  },
+  {
+    "term": "Magical Feather",
+    "translation": "魔法羽毛"
+  },
+  {
+    "term": "Magmatter",
+    "translation": "磁物质"
+  },
+  {
+    "term": "Magnetic Monopole Matter",
+    "translation": "磁单极子物质"
+  },
+  {
+    "term": "Magnetohydrodynamically Constrained Star Matter",
+    "translation": "磁流体约束恒星物质"
+  },
+  {
+    "term": "Maintenance Hatch",
+    "translation": "维护仓"
+  },
+  {
+    "term": "Mask",
+    "translation": "掩膜"
+  },
+  {
+    "term": "Max Amperage:  %s",
+    "translation": "最大电流： %s"
+  },
+  {
+    "term": "Max Voltage:  %s",
+    "translation": "最大电压： %s"
+  },
+  {
+    "term": "ME Level Maintainer",
+    "translation": "ME请求器"
+  },
+  {
+    "term": "Medial Graviton Flow Modulator",
+    "translation": "中介引力子流动调节器"
+  },
+  {
+    "term": "Mega Alloy Blast Smelter",
+    "translation": "巨型合金冶炼炉"
+  },
+  {
+    "term": "Mega Blast Furnace",
+    "translation": "巨型工业高炉"
+  },
+  {
+    "term": "Mega Chemical Reactor",
+    "translation": "巨型化学反应釜"
+  },
+  {
+    "term": "Mega Distillation Tower",
+    "translation": "巨型蒸馏塔"
+  },
+  {
+    "term": "Mega Fluid Alloy Cooker",
+    "translation": "巨型合金冶炼炉"
+  },
+  {
+    "term": "Mega Oil Cracker",
+    "translation": "巨型石油裂化机"
+  },
+  {
+    "term": "Mega Vacuum Freezer",
+    "translation": "巨型真空冷冻机"
+  },
+  {
+    "term": "Mehen Belt",
+    "translation": "迈罕带"
+  },
+  {
+    "term": "Mellion",
+    "translation": "灿茶合金"
+  },
+  {
+    "term": "Meta Tile Entity",
+    "translation": "多方块系统"
+  },
+  {
+    "term": "Metastable Oganesson",
+    "translation": "亚稳态鿫"
+  },
+  {
+    "term": "MHDCSM",
+    "translation": "蓝框岩浆"
+  },
+  {
+    "term": "Molten %material Cell",
+    "translation": "熔融%material单元"
+  },
+  {
+    "term": "Multi Smelter",
+    "translation": "工业熔炉"
+  },
+  {
+    "term": "Multi-Amp Energy Hatches",
+    "translation": "多A能源仓"
+  },
+  {
+    "term": "Multiblock",
+    "translation": "多方块结构"
+  },
+  {
+    "term": "Multiblock machine",
+    "translation": "多方块机器"
+  },
+  {
+    "term": "multiblock miner",
+    "translation": "多方块采矿场"
+  },
+  {
+    "term": "nanite",
+    "translation": "纳米蜂群"
+  },
+  {
+    "term": "Nano Forge",
+    "translation": "纳米锻炉"
+  },
+  {
+    "term": "Naquadah",
+    "translation": "硅岩"
+  },
+  {
+    "term": "Naquadria",
+    "translation": "超能硅岩"
+  },
+  {
+    "term": "Neon",
+    "translation": "氖"
+  },
+  {
+    "term": "Neper",
+    "translation": "奈佩里"
+  },
+  {
+    "term": "Nether Star",
+    "translation": "下界之星"
+  },
+  {
+    "term": "Neutronium",
+    "translation": "中子"
+  },
+  {
+    "term": "Neutronium Compressor",
+    "translation": "中子态素压缩机"
+  },
+  {
+    "term": "Not Enough Items",
+    "translation": "NEI"
+  },
+  {
+    "term": "Nq+₈Ho₂",
+    "translation": "Nq+₈Ho₂"
+  },
+  {
+    "term": "nuke",
+    "translation": "核弹/核电等"
+  },
+  {
+    "term": "Obzinite",
+    "translation": "锌曜钢"
+  },
+  {
+    "term": "Oganesson",
+    "translation": "鿫"
+  },
+  {
+    "term": "Oil Cracking Unit",
+    "translation": "石油裂化机"
+  },
+  {
+    "term": "Oil/Gas/Fluid Drilling Rig",
+    "translation": "油气流体钻机"
+  },
+  {
+    "term": "Optical Connector",
+    "translation": "光学接口"
+  },
+  {
+    "term": "Optical Fiber Cable",
+    "translation": "光缆"
+  },
+  {
+    "term": "Oriharukon",
+    "translation": "奥利哈钢"
+  },
+  {
+    "term": "Osiris",
+    "translation": "奥西里斯"
+  },
+  {
+    "term": "Osmium",
+    "translation": "锇"
+  },
+  {
+    "term": "Outputs the Pollution (Might cause ... things)",
+    "translation": "排放污染(可能会导致...)"
+  },
+  {
+    "term": "Overflow Void Card",
+    "translation": "溢出销毁卡"
+  },
+  {
+    "term": "Ozonation Purification Unit",
+    "translation": "臭氧净化单元"
+  },
+  {
+    "term": "PCB Factory",
+    "translation": "PCB工厂"
+  },
+  {
+    "term": "perfect overclock",
+    "translation": "无损超频"
+  },
+  {
+    "term": "pH Neutralization Purification Unit",
+    "translation": "pH中和净化单元"
+  },
+  {
+    "term": "Pikyonium 64B",
+    "translation": "皮卡优合金64B"
+  },
+  {
+    "term": "Pipe Casing",
+    "translation": "管道方块"
+  },
+  {
+    "term": "Plascrete Block",
+    "translation": "塑料混凝土方块"
+  },
+  {
+    "term": "plasma",
+    "translation": "等离子体"
+  },
+  {
+    "term": "Platinum",
+    "translation": "铂"
+  },
+  {
+    "term": "Plutonium",
+    "translation": "钚"
+  },
+  {
+    "term": "Plutonium 239",
+    "translation": "钚-239"
+  },
+  {
+    "term": "Plutonium 241",
+    "translation": "钚-241"
+  },
+  {
+    "term": "Polybenzimidazole",
+    "translation": "聚苯并咪唑"
+  },
+  {
+    "term": "Polychrome Contest",
+    "translation": "彩虹竞赛"
+  },
+  {
+    "term": "Polyethylene",
+    "translation": "聚乙烯"
+  },
+  {
+    "term": "polyphenylene sulfide",
+    "translation": "聚苯硫醚"
+  },
+  {
+    "term": "Polystyrene",
+    "translation": "聚苯乙烯"
+  },
+  {
+    "term": "polyvinylchloride",
+    "translation": "聚四氟乙烯"
+  },
+  {
+    "term": "Portable Scanner",
+    "translation": "便携式扫描仪"
+  },
+  {
+    "term": "Power Sub-Station",
+    "translation": "能源站"
+  },
+  {
+    "term": "PrAss",
+    "translation": "精密组装机"
+  },
+  {
+    "term": "Precise Assembler",
+    "translation": "精密组装机"
+  },
+  {
+    "term": "Precision Laser Engraver",
+    "translation": "精密激光蚀刻机"
+  },
+  {
+    "term": "Primitive Blast Furnace",
+    "translation": "砖高炉"
+  },
+  {
+    "term": "Processing Array",
+    "translation": "处理阵列"
+  },
+  {
+    "term": "Proto-Halkonite Steel",
+    "translation": "原初恒坚钢"
+  },
+  {
+    "term": "Pseudostable Black Hole Containment Field",
+    "translation": "亚稳态黑洞遏制场"
+  },
+  {
+    "term": "Puts out up to 1 Amp",
+    "translation": "最大输出1安"
+  },
+  {
+    "term": "Quadruple %material Ingot",
+    "translation": "四重%material锭"
+  },
+  {
+    "term": "Quadruple %material Plate",
+    "translation": "四重%material板"
+  },
+  {
+    "term": "Quantium",
+    "translation": "量子"
+  },
+  {
+    "term": "Quantum Force Transformer",
+    "translation": "量子操纵者"
+  },
+  {
+    "term": "Quark Gluon Plasma",
+    "translation": "夸克胶子等离子体"
+  },
+  {
+    "term": "quark-gluon",
+    "translation": "夸克胶子"
+  },
+  {
+    "term": "Quintuple %material Ingot",
+    "translation": "五重%material锭"
+  },
+  {
+    "term": "Quintuple %material Plate",
+    "translation": "五重%material板"
+  },
+  {
+    "term": "Raw %material Ore",
+    "translation": "粗%material矿石"
+  },
+  {
+    "term": "Raw Advanced Crystal Chip",
+    "translation": "先进晶体芯片原料"
+  },
+  {
+    "term": "Realistic World Gen",
+    "translation": "真实世界生成"
+  },
+  {
+    "term": "Reception Connector",
+    "translation": "接收接口"
+  },
+  {
+    "term": "Reinforced Glass",
+    "translation": "防爆玻璃"
+  },
+  {
+    "term": "Release Candidate",
+    "translation": "发布候选版本"
+  },
+  {
+    "term": "Remote Graviton Flow Modulator",
+    "translation": "远程引力子流动调节器"
+  },
+  {
+    "term": "Residual Decontaminant Degasser Purification Unit",
+    "translation": "残留净化剂除气机净化单元"
+  },
+  {
+    "term": "Ring of Loki",
+    "translation": "洛基之戒"
+  },
+  {
+    "term": "Sekhmet",
+    "translation": "塞赫美特"
+  },
+  {
+    "term": "Seth",
+    "translation": "赛特"
+  },
+  {
+    "term": "Shirabon",
+    "translation": "调律源金"
+  },
+  {
+    "term": "Singularity Reinforced Stellar Shielding Casing",
+    "translation": "奇点强化恒星屏蔽机械方块"
+  },
+  {
+    "term": "Six-Phased Copper",
+    "translation": "六相铜"
+  },
+  {
+    "term": "Slab",
+    "translation": "台阶"
+  },
+  {
+    "term": "Small %material Gear",
+    "translation": "小型%material齿轮"
+  },
+  {
+    "term": "Small %material Ore",
+    "translation": "贫瘠%material矿石"
+  },
+  {
+    "term": "Small %material Spring",
+    "translation": "小型%material弹簧"
+  },
+  {
+    "term": "Small Pile of %material Dust",
+    "translation": "小堆%material粉"
+  },
+  {
+    "term": "Solar Factory",
+    "translation": "太阳能板制造厂"
+  },
+  {
+    "term": "Space Elevator",
+    "translation": "太空电梯"
+  },
+  {
+    "term": "Spacetime",
+    "translation": "时空"
+  },
+  {
+    "term": "Spatial Cell",
+    "translation": "空间存储元件"
+  },
+  {
+    "term": "Spatially Enlarged Fluid",
+    "translation": "扩大化空间流体"
+  },
+  {
+    "term": "Split Origin",
+    "translation": "分裂起源"
+  },
+  {
+    "term": "Stabilised Baryonic Matter",
+    "translation": "稳定重子物质"
+  },
+  {
+    "term": "Steam Squasher",
+    "translation": "大型蒸汽压缩机"
+  },
+  {
+    "term": "Stellar Energy Siphon Casing",
+    "translation": "恒星能量抽取机械方块"
+  },
+  {
+    "term": "stellar fuel",
+    "translation": "恒星燃料"
+  },
+  {
+    "term": "Steve's Factory Manager",
+    "translation": "史蒂夫工厂管理"
+  },
+  {
+    "term": "Stocking Input Bus",
+    "translation": "存储输入总线"
+  },
+  {
+    "term": "Stocking Input Hatch",
+    "translation": "存储输入仓"
+  },
+  {
+    "term": "Storage Cell",
+    "translation": "存储元件"
+  },
+  {
+    "term": "Structure:",
+    "translation": "结构："
+  },
+  {
+    "term": "Superconductor",
+    "translation": "超导体"
+  },
+  {
+    "term": "Supercritical Steam",
+    "translation": "超临界蒸汽"
+  },
+  {
+    "term": "Superdense %material Plate",
+    "translation": "超致密%material板"
+  },
+  {
+    "term": "Superheated Steam",
+    "translation": "过热蒸汽"
+  },
+  {
+    "term": "Tachyon Rich Temporal Fluid",
+    "translation": "富快子时间流体"
+  },
+  {
+    "term": "teflon",
+    "translation": "特氟龙"
+  },
+  {
+    "term": "Thaumaturge",
+    "translation": "神秘使"
+  },
+  {
+    "term": "Thaumometric Essentia Cell",
+    "translation": "魔导源质存储元件"
+  },
+  {
+    "term": "Thorium High Temperature Reactor",
+    "translation": "钍高温反应堆"
+  },
+  {
+    "term": "Thoth",
+    "translation": "托特"
+  },
+  {
+    "term": "THTR",
+    "translation": "钍高温反应堆"
+  },
+  {
+    "term": "thunderstorm",
+    "translation": "雷雨天"
+  },
+  {
+    "term": "Tin",
+    "translation": "锡"
+  },
+  {
+    "term": "Tiny Pile of %material Dust",
+    "translation": "小撮%material粉"
+  },
+  {
+    "term": "Ti₃Pt₃V",
+    "translation": "Ti₃Pt₃V"
+  },
+  {
+    "term": "Tool Casting Machine",
+    "translation": "工具铸造机"
+  },
+  {
+    "term": "Top Middle",
+    "translation": "顶层中央"
+  },
+  {
+    "term": "Transcendent Metal",
+    "translation": "超时空金属"
+  },
+  {
+    "term": "Transcendent Plasma Mixer",
+    "translation": "超维度等离子搅拌机"
+  },
+  {
+    "term": "Transcendentally Amplified Magnetic Confinement Ca",
+    "translation": "超时空强化磁约束机械方块"
+  },
+  {
+    "term": "Transmission Connector",
+    "translation": "发送接口"
+  },
+  {
+    "term": "Traveller's Wings",
+    "translation": "旅行者之翼"
+  },
+  {
+    "term": "Tree Growth Simulator",
+    "translation": "原木拟生场"
+  },
+  {
+    "term": "Triple %material Ingot",
+    "translation": "三重%material锭"
+  },
+  {
+    "term": "Triple %material Plate",
+    "translation": "三重%material板"
+  },
+  {
+    "term": "trollplant",
+    "translation": "恶作剧藤"
+  },
+  {
+    "term": "Twilight Forest",
+    "translation": "暮色森林"
+  },
+  {
+    "term": "Uncertainty Resolution",
+    "translation": "Debug未定元解析器"
+  },
+  {
+    "term": "Uncertainty Resolver",
+    "translation": "未定元解析器"
+  },
+  {
+    "term": "Universal Advanced Assembly Line",
+    "translation": "通用进阶装配线"
+  },
+  {
+    "term": "Universal Chemical Fuel Engine",
+    "translation": "通用化学燃料引擎"
+  },
+  {
+    "term": "Universium",
+    "translation": "宇宙素"
+  },
+  {
+    "term": "Vac Nukes",
+    "translation": "冰箱核电"
+  },
+  {
+    "term": "Vacuum Freezer",
+    "translation": "真空冷冻机"
+  },
+  {
+    "term": "Void Miner",
+    "translation": "虚空采矿场"
+  },
+  {
+    "term": "waterline",
+    "translation": "净化水产线"
+  },
+  {
+    "term": "White Dwarf Matter",
+    "translation": "白矮星物质"
+  },
+  {
+    "term": "Wireless Assembly line Reception Connector",
+    "translation": "装配线无线接收接口"
+  },
+  {
+    "term": "Wireless Data Bank Transmission Connector",
+    "translation": "数据库无线发送接口"
+  },
+  {
+    "term": "Wireless Energy Hatch",
+    "translation": "无线能源仓"
+  },
+  {
+    "term": "Witching Gadgets",
+    "translation": "巫师宝具"
+  },
+  {
+    "term": "World Accelerator",
+    "translation": "世界加速器"
+  },
+  {
+    "term": "Xenon",
+    "translation": "氙"
+  },
+  {
+    "term": "XL Turbo Gas Turbine",
+    "translation": "特大燃气涡轮"
+  },
+  {
+    "term": "XL Turbo HP Steam Turbine",
+    "translation": "特大高压蒸汽涡轮"
+  },
+  {
+    "term": "XL Turbo Plasma Turbine",
+    "translation": "特大等离子涡轮"
+  },
+  {
+    "term": "XL Turbo SC Steam Turbine",
+    "translation": "特大超临界蒸汽涡轮"
+  },
+  {
+    "term": "XL Turbo Steam Turbine",
+    "translation": "特大蒸汽涡轮"
+  },
+  {
+    "term": "[/note]",
+    "translation": "[/note]"
+  },
+  {
+    "term": "[/warn]",
+    "translation": "[/warn]"
+  },
+  {
+    "term": "[note]",
+    "translation": "[note]"
+  },
+  {
+    "term": "[warn]",
+    "translation": "[warn]"
+  },
+  {
+    "term": "§6§m----------------------------------------------",
+    "translation": "§6§m----------------------------------------------"
+  },
+  {
+    "term": "§7§m-----------------------------------------",
+    "translation": "§7§m-----------------------------------------"
+  },
+  {
+    "term": "§9Fluid Capacity: %s L/sec§7",
+    "translation": "§9流体容量： %s 升/秒§7"
+  },
+  {
+    "term": "§9Tec§1Tech§9: Elemental Matter",
+    "translation": "§9Tec§1Tech§9：万物基石"
+  },
+  {
+    "term": "§f   Input Hatch: §7Any Casing",
+    "translation": "§f   输入仓：§7  任意机械方块"
+  },
+  {
+    "term": "§f   Output Bus: §7Any Casing",
+    "translation": "§f   输出总线：§7任意机械方块"
+  },
+  {
+    "term": "§fTo see the structure, use a§9 Structure§1Lib §r§",
+    "translation": "请在主方块上使用§9Structure§1Lib§r§f全息投影仪,以查看整体结构!"
+  },
+  {
+    "term": "格栅",
+    "translation": "Grate"
+  }
+]
