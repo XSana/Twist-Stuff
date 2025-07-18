@@ -33,6 +33,7 @@ To install it the Hard Way (manually, not recommended):
 4. Replace the `QuestLinesOrder.txt` in your INSTANCE folder with the one you downloaded from this repository.
 
 Reload the QuestBook after using the default load command. This should work, but please don't hesitate to contact me in my Discord or the Twist Discord if you have any questions.
+
 以下为安装方法的翻译版本，仅提供简单方法的译文，为保证其他中文翻译不被覆盖
 建议在安装完成后，重新按照中文wiki的安装翻译的方法安装翻译，这不会导致tst任务被覆盖：
 1.找到你安装GTNH的文件夹，找到.minecraft/configs/betterquesting
