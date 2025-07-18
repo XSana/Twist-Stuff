@@ -1,6 +1,6 @@
 TST 任务书
 
-使用 DeepSeek 机翻版本，目前没有人工校对，你可以 fork 这个仓库创建自己的翻译或者，提交你觉得有问题的翻译到这里
+使用 DeepSeek 机翻版本，目前由Straw完成第一次人工校对，你可以 fork 这个仓库，创建自己的翻译，或者提交你觉得有问题的翻译，以及提交更好的翻译方式来完善翻译，目前该版本已适配274
 
 使用方法
 
@@ -33,3 +33,9 @@ To install it the Hard Way (manually, not recommended):
 4. Replace the `QuestLinesOrder.txt` in your INSTANCE folder with the one you downloaded from this repository.
 
 Reload the QuestBook after using the default load command. This should work, but please don't hesitate to contact me in my Discord or the Twist Discord if you have any questions.
+以下为安装方法的翻译版本，仅提供简单方法的译文，为保证其他中文翻译不被覆盖
+建议在安装完成后，重新按照中文wiki的安装翻译的方法安装翻译，这不会导致tst任务被覆盖：
+1.找到你安装GTNH的文件夹，找到.minecraft/configs/betterquesting
+2.删除Defaultquests文件夹，下载本库所提供的Defaultquests文件夹
+3.将其复制到原来的betterquesting文件夹
+4.输入指令：/bq_admin default load，若你为服务器管理员，此步骤可跳过。
